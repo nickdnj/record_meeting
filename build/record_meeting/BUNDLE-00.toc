@@ -1,0 +1,3 @@
+([('record_meeting',
+   '/Users/nickd/Workspaces/record_meeting/dist/record_meeting',
+   'EXECUTABLE')],)
