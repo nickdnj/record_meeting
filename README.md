@@ -9,6 +9,19 @@ A modern, minimal Python desktop app for macOS to automate and simplify audio ro
 
 ---
 
+## 🏁 Quick Install (macOS)
+
+**Download:** [record_meeting 0.0.0.dmg](./record_meeting%200.0.0.dmg)
+
+1. Open the DMG file.
+2. Drag the `record_meeting.app` icon into your Applications folder.
+3. Eject the DMG.
+4. Run the app from Applications.
+
+No Python or setup required!
+
+---
+
 ## 🚀 Vibe Coded Provenance
 This app was **completely vibe coded**: from idea to spec to code, using GPT-4.1 and o3-mini-high, in about 2 hours. Every line, every feature, every UX detail was generated and iterated in a single creative session—no legacy code, no boilerplate, just pure flow.
 
